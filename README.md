@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 CS Student @FCAI & Competitive Programmer
 
 
